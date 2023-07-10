@@ -4,7 +4,7 @@ Durante a Semana do Zero do Programador Contratado, promovida pelo [Dev em Dobro
 ## Imagem do projeto
 
 <p align="center">
-  <img alt="Preview" src="https://vaporubberg.github.io/Five-Night-s-at-Freddy-2/" width="100%">
+  <img alt="Preview" src="Preview.jpg" width="100%">
 </p>
 
 ## Tecnologias usadas
