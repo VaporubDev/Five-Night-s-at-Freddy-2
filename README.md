@@ -16,4 +16,4 @@ Durante a Semana do Zero do Programador Contratado, promovida pelo Dev em dobro,
 
 ## 💻Site
 
-> [Clique aqui para visualizar o projeto!](https://vaporubberg.github.io/Five-Night-s-at-Freddy-2/)
+> [Clique aqui para visualizar o projeto!](https://vaporubdev.github.io/Five-Night-s-at-Freddy-2/)
